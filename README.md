@@ -1,7 +1,3 @@
-# drumKit
-Here's a sample README file for your Drum Kit project:
-
----
 
 # Drum Kit
 
